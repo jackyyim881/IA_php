@@ -1,0 +1,1 @@
+fixing the select tag of the book slot are disable's problem
